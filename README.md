@@ -1,3 +1,3 @@
 # document-automation
 
-Add a text in a PDF file.
+Add a text in a PDF file with GUI.
